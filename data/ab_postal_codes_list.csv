@@ -1,0 +1,146 @@
+fsa,city,area
+T1A,Medicine Hat,Central
+T2A,Calgary,Penbrooke Meadows / Marlborough
+T3A,Calgary,Dalhousie / Edgemont / Hamptons / Hidden Valley
+T4A,Airdrie,East
+T5A,Edmonton,WestClareview /  EastLondonderry
+T6A,Edmonton,NorthCapilano
+T7A,Drayton Valley,
+T8A,Sherwood Park,West
+T9A,Wetaskiwin,
+T1B,Medicine Hat,South
+T2B,Calgary,Forest Lawn / Dover / Erin Woods
+T3B,Calgary,Montgomery / Bowness / Silver Springs / Greenwood
+T4B,Airdrie,West
+T5B,Edmonton,East North Central  /  WestBeverly
+T6B,Edmonton,SECapilano /  WestSoutheast Industrial /  EastBonnie Doon
+T8B,Sherwood Park,Outer Southwest
+T1C,Medicine Hat,North
+T2C,Calgary,Lynnwood Ridge / Ogden / Foothills Industrial / Great Plains
+T3C,Calgary,Rosscarrock / Westgate / Wildwood / Shaganappi / Sunalta
+T4C,Cochrane,
+T5C,Edmonton,CentralLondonderry
+T6C,Edmonton,CentralBonnie Doon
+T8C,Sherwood Park,Inner Southwest
+T9C,Vegreville,
+T2E,Calgary,Bridgeland / Greenview / Zoo / YYC
+T3E,Calgary,Lakeview / Glendale / Killarney / Glamorgan
+T4E,Red Deer County,
+T5E,Edmonton,WestLondonderry /  EastCalder
+T6E,Edmonton,SouthBonnie Doon /  EastUniversity
+T7E,Edson,
+T8E,Sherwood Park,Central(Ardrossan
+T9E,Leduc,IncludesYEG
+T1G,Taber,
+T2G,Calgary,Inglewood / Burnsland / Chinatown /  EastVictoria Park / Saddledome
+T3G,Calgary,Hawkwood / Arbour Lake / Citadel / Ranchlands / Royal Oak / Rocky Ridge
+T4G,Innisfail,
+T5G,Edmonton,North Central  / Queen Mary Park / Blatchford
+T6G,Edmonton,WestUniversity / Strathcona Place
+T8G,Sherwood Park, /  ArdrossanEast
+T9G,Devon,
+T1H,Lethbridge,North
+T2H,Calgary,Highfield / Burns Industrial
+T3H,Calgary,Discovery Ridge / Signal Hill / West Springs / Christie Park / Patterson / Cougar Ridge
+T4H,Olds,
+T5H,Edmonton,North and EastDowntown Fringe
+T6H,Edmonton,Southgate /  NorthRiverbend
+T8H,Sherwood Park,Northwest
+T9H,Fort McMurray,Outer Central
+T1J,Lethbridge,West and Central
+T2J,Calgary,Queensland / Lake Bonavista / Willow Park / Acadia
+T3J,Calgary,Martindale / Taradale / Falconridge / Saddle Ridge
+T4J,Ponoka,
+T5J,Edmonton,NorthDowntown
+T6J,Edmonton,Kaskitayo / Aspen Gardens
+T9J,Fort McMurray,Inner Central
+T1K,Lethbridge,West and South
+T2K,Calgary,Thorncliffe / Tuxedo Park
+T3K,Calgary,Sandstone / MacEwan Glen / Beddington / Harvest Hills / Coventry Hills / Panorama Hills
+T4K,Stettler,
+T5K,Edmonton,SouthDowntown /  SouthDowntown Fringe)Alberta Provincial Government
+T6K,Edmonton,WestMill Woods
+T9K,Fort McMurray,Northwest
+T1L,Banff,
+T2L,Calgary,Brentwood / Collingwood / Nose Hill
+T3L,Calgary,Tuscany / Scenic Acres
+T4L,Lacombe,
+T5L,Edmonton,NorthWestmount /  WestCalder /  EastMistatim
+T6L,Edmonton,EastMill Woods
+T8L,Fort Saskatchewan,
+T1M,Coaldale,
+T2M,Calgary,Mount Pleasant / Capitol Hill / Banff Trail
+T3M,Calgary,Cranston / Auburn Bay / Mahogany
+T4M,Blackfalds,
+T5M,Edmonton,SouthWestmount / Groat Estate /  EastNorthwest Industrial
+T6M,Edmonton,Southwest
+T9M,Cold Lake,
+T2N,Calgary,Kensington / Westmont / Parkdale / University
+T3N,Calgary,Northeast
+T4N,Red Deer,Central
+T5N,Edmonton,Glenora /  SWDowntown Fringe
+T6N,Edmonton,South Industrial
+T7N,Barrhead,
+T8N,St. Albert,
+T9N,Bonnyville,
+T1P,Strathmore,
+T2P,Calgary,City Centre / Calgary Tower
+T3P,Calgary,Symons Valley
+T4P,Red Deer,North
+T5P,Edmonton,NorthJasper Place
+T6P,Edmonton,EastSoutheast Industrial /  SouthClover Bar
+T7P,Westlock,
+T1R,Brooks,
+T2R,Calgary,Connaught /  WestVictoria Park
+T3R,Calgary,Northwest
+T4R,Red Deer,South
+T5R,Edmonton,CentralJasper Place / Buena Vista
+T6R,Edmonton,Riverbend
+T8R,Morinville,
+T1S,Okotoks,
+T2S,Calgary,Elbow Park / Britannia / Parkhill / Mission
+T3S,Calgary,Southeast
+T4S,Sylvan Lake,
+T5S,Edmonton,WestNorthwest Industrial / Winterburn
+T6S,Edmonton,NorthClover Bar
+T7S,Whitecourt,
+T8S,Peace River,
+T9S,Athabasca,
+T2T,Calgary,South(Altadore / Bankview / Richmond
+T3T,Tsuut'ina,
+T4T,Rocky Mountain House,
+T5T,Edmonton,West Jasper Place / West Edmonton Mall
+T6T,Edmonton,The Meadows
+T8T,Sturgeon County,
+T1V,High River,
+T2V,Calgary,Oakridge / Haysboro / Kingsland / Kelvin Grove / Windsor Park
+T4V,Camrose,
+T5V,Edmonton,CentralMistatim
+T6V,Edmonton,The Palisades /  WestCastle Downs
+T7V,Hinton,
+T8V,Grande Prairie,Central
+T9V,Lloydminster,
+T1W,Canmore,
+T2W,Calgary,Braeside / Cedarbrae / Woodbine
+T5W,Edmonton,CentralBeverly
+T6W,Edmonton,Heritage Valley
+T8W,Grande Prairie,South
+T9W,Wainwright,
+T1X,Chestermere,
+T2X,Calgary,Midnapore / Sundance
+T4X,Beaumont,
+T5X,Edmonton,EastCastle Downs
+T6X,Edmonton,Ellerslie
+T7X,Spruce Grove,North
+T8X,Grande Prairie,East
+T9X,Vermilion,
+T1Y,Calgary,Rundle / Whitehorn / Monterey Park
+T2Y,Calgary,Millrise / Somerset / Bridlewood / Evergreen
+T5Y,Edmonton,Horse Hill /  EastLake District
+T6Y,Edmonton,Southeast Edmonton
+T7Y,Spruce Grove,Parkland CountyCarvelLac Ste. Anne County
+T1Z,Rocky View,
+T2Z,Calgary,Douglas Glen / McKenzie Lake / Copperfield / East Shepard
+T3Z,Redwood Meadows,
+T5Z,Edmonton,WestLake District
+T7Z,Stony Plain,
